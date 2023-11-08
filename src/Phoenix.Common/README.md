@@ -1,6 +1,6 @@
 How to create a package
 
-dotnet pack -o ..\..\..\packages\
+dotnet pack -o ..\.dotnet add package Phoenix.Common.\..\packages\
 
 then add on Phoenix.Catalog the nuget package
 
